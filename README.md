@@ -2,7 +2,7 @@
 - 👀 I’m interested in FullStack Application Dvelopment
 - 🌱 I’m currently learning MERN stack
 - 📫 How to reach me
--     mail: sanjeevsk15052004@gmail.com
+-     mail: sanjeevcsevec@gmail.com
 -     Portfolio: https://portfolio2-0-flame.vercel.app/
 
 
